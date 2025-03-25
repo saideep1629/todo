@@ -1,12 +1,52 @@
-# React + Vite
+# To-Do App (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple and efficient To-Do application built with React and Vite. The app helps users manage their tasks effectively.
 
-Currently, two official plugins are available:
+## Features
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- Responsive and user-friendly interface
+- Fast performance with Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation & Running Locally
 
-## Expanding the ESLint configuration
+### Prerequisites
+- Node.js (>= 14.x)
+- npm or yarn
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Steps to run the project:
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd todo-main
+
+2. Install dependencies:
+    ```bash
+    npm install
+
+3. Start the development server:
+   ```bash
+   npm run dev
+
+4. Open the app in your browser:
+
+It will usually be available at http://localhost:5173/ (default Vite port).
+
+## Tech Stack
+Frontend: React, Vite
+
+Styling: Tailwind CSS (if applicable)
+
+State Management: React hooks (useState, useEffect)
+
+Build Tool: Vite
+
+## Usage
+Open the app in a browser.
+
+Enter a task and press "Add" to add it to the list.
+
+Click on a task to mark it as complete.
+
+Use the delete button to remove tasks
+
