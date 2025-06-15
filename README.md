@@ -8,45 +8,9 @@ This is a simple and efficient To-Do application built with React and Vite. The 
 - Responsive and user-friendly interface
 - Fast performance with Vite
 
-## Installation & Running Locally
+Add ToDo Page
 
-### Prerequisites
-- Node.js (>= 14.x)
-- npm or yarn
+![image](https://github.com/user-attachments/assets/76da6d7b-7c0e-409e-9c9b-cf486b838fe6)
 
-### Steps to run the project:
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd todo-main
-
-2. Install dependencies:
-    ```bash
-    npm install
-
-3. Start the development server:
-   ```bash
-   npm run dev
-
-4. Open the app in your browser:
-
-It will usually be available at http://localhost:5173/ (default Vite port).
-
-## Tech Stack
-Frontend: React, Vite
-
-Styling: Tailwind CSS (if applicable)
-
-State Management: React hooks (useState, useEffect)
-
-Build Tool: Vite
-
-## Usage
-Open the app in a browser.
-
-Enter a task and press "Add" to add it to the list.
-
-Click on a task to mark it as complete.
-
-Use the delete button to remove tasks
-
+View ToDo Page
+![image](https://github.com/user-attachments/assets/39cfb164-de9f-42be-8b32-560af251ac74)
